@@ -1,11 +1,11 @@
-## Backend
+## Desenvolvimento Back-end
 
 ![PHP](https://img.shields.io/badge/PHP-336699?style=for-the-badge&logo=php&logoColor=white)
 ![C Sharp](https://camo.githubusercontent.com/6f190b28a66241a16cc31010fe4ce40fcfde787a4322a663b01517dd18a21192/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332d2532333233393132302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465)
 ![Python](https://camo.githubusercontent.com/94a0885fa9b9e4253654a6b49d23eea61d4714475377d34700959d6f14a4a49a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)
 ![Delphi](https://img.shields.io/badge/Delphi-dd1513?style=for-the-badge&logo=delphi&logoColor=white)
 
-## Frontend
+## Desenvolvimento Front-end
 
 ![HTML5](https://camo.githubusercontent.com/bfe6a48836e87b13a16f1f56f88fee428475c2ac29247992ec9b8bcc7154f881/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
 ![CSS3](https://camo.githubusercontent.com/472c222e8f240a48ae51cd9b082a1b857be809dcd851a25150890c2da50c13a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
@@ -14,7 +14,7 @@
 ![AngularJs](https://img.shields.io/badge/AngularJs-b52e31?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-40b27f?style=for-the-badge&logo=v&logoColor=33475b)
 
-## Banco x Caches
+## Banco de Dados Relacional/Não Relacional e Caches
 
 ![MySQL](https://camo.githubusercontent.com/d46aa90e6c367b96ac064e7ba66a366cb97ae59b76338e3a28220ef9e07ca5a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303036453f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-cccccc?style=for-the-badge&logo=s&logoColor=black)
@@ -22,23 +22,23 @@
 ![Redis](https://img.shields.io/badge/Redis-c02f2a?style=for-the-badge&logo=redis&logoColor=white)
 ![Memcached](https://img.shields.io/badge/memcached-28887d?style=for-the-badge&logo=&logoColor=white)
 
-## Núvem
+## Serviços em núvem
 
 ![JWT](https://camo.githubusercontent.com/5f4b3a404262bffa544a0298b3ea46b86c13ee1d083b6321de7f3c6fc1ff7932/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a57542d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d4a534f4e253230776562253230746f6b656e73266c6f676f436f6c6f723d7768697465)
 ![Docker](https://camo.githubusercontent.com/bce5c9b25447afefd9c8dc63febce5936fbff659beee51466a130b41a2821a9b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)
 ![AWS](https://img.shields.io/badge/AWS-f7f7f7?style=for-the-badge&logo=amazon&logoColor=222e3c)
 
-## Testes
+## Testes Unitários e End-to-End
 
 ![Cypress](https://camo.githubusercontent.com/e578d2a49fdf27e421a2ce7140298e017f4ff34ede0ce56fc6f5efd7a54642bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d637970726573732d2532334535453545353f7374796c653d666f722d7468652d6261646765266c6f676f3d63797072657373266c6f676f436f6c6f723d303538613565)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-3a97d0?style=for-the-badge&logo=php&logoColor=white)
 
-## Versionamento
+## Controle de Versão
 
 ![SVN](https://img.shields.io/badge/SVN-f7f7f7?style=for-the-badge&logo=subversion&logoColor=7c97c3)
 ![Git](https://img.shields.io/badge/Git-f7f7f7?style=for-the-badge&logo=git&logoColor=e84e31)
 
-## Ferramentas
+## Ferramentas diversas
 
 ![Slack](https://img.shields.io/badge/SVN-f7f7f7?style=for-the-badge&logo=subversion&logoColor=7c97c3)
 ![PHPStorm](https://img.shields.io/badge/PHPStorm-ad42e9?style=for-the-badge&logo=phpstorm&logoColor=white)
