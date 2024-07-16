@@ -1,6 +1,7 @@
 ## Desenvolvimento Back-end
 
 ![PHP](https://img.shields.io/badge/PHP-336699?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/c++-005597?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C Sharp](https://camo.githubusercontent.com/6f190b28a66241a16cc31010fe4ce40fcfde787a4322a663b01517dd18a21192/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332d2532333233393132302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465)
 ![Python](https://camo.githubusercontent.com/94a0885fa9b9e4253654a6b49d23eea61d4714475377d34700959d6f14a4a49a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)
 ![Delphi](https://img.shields.io/badge/Delphi-dd1513?style=for-the-badge&logo=delphi&logoColor=white)
